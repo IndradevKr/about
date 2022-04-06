@@ -12,7 +12,7 @@ function About(){
 
             <div className="about-content">
                 <h3 className="section-heading">About Me</h3>
-                <p className="about-text">Hi, I am Indradev Kumar Mahato, a full-stack web developer focused on crafting great web experiences. Designing and coding have been my passion since the day I started working with computers. I enjoy creating beautifully designed, intuitive and functional websites.</p>
+                <p className="about-text">Hi, I am Indradev Kumar Mahato, <strong>a full-stack web developer focused on crafting great web experiences.</strong> Designing and coding have been my passion since the day I started working with computers. I enjoy creating beautifully designed, intuitive and functional websites.</p>
                 <p className="about-text">I am a computer science graduate with a keen interest in full-stack web development.</p>
                 <p className="about-text"> <em>I am very enthusiastic about <strong>looking for an opportunity</strong> to use my technical skills to contribute to organizational growth and enhance my skills.</em></p>
                 

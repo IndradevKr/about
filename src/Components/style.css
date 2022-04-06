@@ -495,7 +495,7 @@ nav.navbar {
     margin-bottom: 1rem;
 }
 .card__content p{
-    font-size: 1.2rem;
+    font-size: 1.3rem;
     margin-bottom: 1rem;
 }
 .btn__card{
@@ -663,6 +663,9 @@ footer h5{
     .grid{
         gap: 1rem;
     }
+    .hero-image{
+        align-items: center;
+    }
     .hero-image img {
         width: 25rem;
         height: 25rem;
@@ -687,6 +690,10 @@ footer h5{
     } */
     .about-content{
         padding: 1rem;
+    }
+    .about-text{
+        font-size: 1.4rem;
+        line-height: 1.4;
     }
     /* --------Skill Section---------- */
     .progress-bar span{
