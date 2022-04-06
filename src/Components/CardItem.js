@@ -1,0 +1,68 @@
+import images from './images/Images';
+
+const cardData = [
+    {
+        id: 1,
+        projectTitle: 'KeepToDo',
+        imgAlt: "KeepToDo image",
+        image: images.keeptodoImage,
+        primaryDesc: 'KeepToDo is a react web application to store task to store tasks temporarily.',
+        secondaryDesc: 'This project is a responsive and eye-catching todo application having features to store the task and delete it.',
+        projectLink: 'https://indradevkr.github.io/keeptodo/',
+    },
+    {
+        id: 2,
+        projectTitle: "iWeather",
+        imgAlt: "iWeather image",
+        image: images.iweatherImage,
+        primaryDesc: "iWeather is a react web application displaying weather data of searched cities.",
+        secondaryDesc: "In this projet, Live current weather data is fetched from openweathermap API with responsive looks.",
+        projectLink: 'https://indradevkr.github.io/iWeather/',
+    },
+    {
+        id: 3,
+        projectTitle: "IMTechSeeker",
+        imgAlt: "IMTechSeeker image",
+        image: images.imtechseekerImage ,
+        primaryDesc: "ImTechSeeker is a blog application created using django.",
+        secondaryDesc: "The project includes feature of user authentication to write, update and delete blogs. The blogs are fetched using category of blogs and have social share and many more features.",
+        projectLink: 'https://imtechseeker.herokuapp.com/',
+    },
+    {
+        id: 4,
+        projectTitle: "HamroBajar",
+        imgAlt: "HamroBajar image",
+        image: images.hamroBajarImage ,
+        primaryDesc: "HamroBajar is an ecommerce application created using Django.",
+        secondaryDesc: "The project includes user authentication, product listed according to categories, place order, track order, and many more features.",
+        projectLink: 'https://github.com/IndradevKr/ecommerceProject',
+    },
+    {
+        id: 5,
+        projectTitle: "YouTube Downloader",
+        imgAlt: "YouTube Downloader image",
+        image: images.youtubeImage ,
+        primaryDesc: "",
+        secondaryDesc: "YouTube Downloader is a mini project created using python programming language.",
+        projectLink: 'https://github.com/IndradevKr/youtube-downloader',
+    },
+    {
+        id: 6,
+        projectTitle: "Responsive portfolio design 1",
+        imgAlt: "portfolio 2021 image",
+        image: images.portfolio2021 ,
+        primaryDesc: "Designed this portfolio with standard looks.",
+        secondaryDesc: "The project includes the responsive portfolio with standard looks and design.",
+        projectLink: 'https://indradevkr.github.io/about-me/',
+    },
+    {
+        id: 7,
+        projectTitle: "Responsive portfolio design 2",
+        imgAlt: "portfolio 2020 image",
+        image: images.portfolio2020,
+        primaryDesc: "Designed this portfolio with minimal design.",
+        secondaryDesc: "The project includes minimal design with option to select different theme using HTML, CSS and JavaScript.",
+        projectLink: 'https://indradevkr.github.io/portfolio/',
+    },
+]
+export default cardData;
