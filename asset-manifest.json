@@ -1,7 +1,7 @@
 {
-  "main.css": "/about/static/css/main.573d89e1.chunk.css",
-  "main.js": "/about/static/js/main.371481aa.chunk.js",
-  "main.js.map": "/about/static/js/main.371481aa.chunk.js.map",
+  "main.css": "/about/static/css/main.bcfa7bc7.chunk.css",
+  "main.js": "/about/static/js/main.a0c01f36.chunk.js",
+  "main.js.map": "/about/static/js/main.a0c01f36.chunk.js.map",
   "static/js/1.517527aa.chunk.js": "/about/static/js/1.517527aa.chunk.js",
   "static/js/1.517527aa.chunk.js.map": "/about/static/js/1.517527aa.chunk.js.map",
   "static/css/2.8a3d8912.chunk.css": "/about/static/css/2.8a3d8912.chunk.css",
@@ -24,9 +24,9 @@
   "static/media/facebook.png": "/about/static/media/facebook.d83309ce.png",
   "static/media/Indradev_Kumar_Mahato_Resume.pdf": "/about/static/media/Indradev_Kumar_Mahato_Resume.894ebbce.pdf",
   "static/media/slick-theme.css": "/about/static/media/slick.f97e3bbf.svg",
-  "static/css/main.573d89e1.chunk.css.map": "/about/static/css/main.573d89e1.chunk.css.map",
+  "static/css/main.bcfa7bc7.chunk.css.map": "/about/static/css/main.bcfa7bc7.chunk.css.map",
   "static/css/2.8a3d8912.chunk.css.map": "/about/static/css/2.8a3d8912.chunk.css.map",
   "index.html": "/about/index.html",
-  "precache-manifest.b015246672f6bec254c464c0b9120b7f.js": "/about/precache-manifest.b015246672f6bec254c464c0b9120b7f.js",
+  "precache-manifest.5c4bd9c379cff50c467f6a36bea02f3a.js": "/about/precache-manifest.5c4bd9c379cff50c467f6a36bea02f3a.js",
   "service-worker.js": "/about/service-worker.js"
 }
