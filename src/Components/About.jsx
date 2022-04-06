@@ -4,7 +4,7 @@ import images from "./images/Images";
 function About(){
     return(
         <section id="about" className="container section-about section">
-           <div className="grid grid-column-two">
+           <div className="grid grid-column-two grid-column-mobile">
 
             <div className="about-image">
                 <img src={images.aboutImage} alt="Indradev Mahato" />

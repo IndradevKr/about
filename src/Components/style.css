@@ -671,14 +671,20 @@ footer h5{
     .section-about{
         margin-top: 2rem;
     }
-    .about-image{
-        align-items: center;
+    .grid-column-mobile{
+        grid-template-columns: 1fr;
+        width: 100%;
         padding: 1rem;
     }
-    .about-image img{
+    .about-image{
+        /* align-items: center;
+        padding: 1rem; */
+        display: none;
+    }
+    /* .about-image img{
         width: 20rem;
         height: 20rem;
-    }
+    } */
     .about-content{
         padding: 1rem;
     }
@@ -774,50 +780,52 @@ footer h5{
     .section-about{
         margin-top: 1rem;
     }
-    .about-image img{
+    /* .about-image img{
         width: 10rem;
         height: 10rem;
-    }
+    } */
     .about-content{
-        padding: 0.5rem;
+        padding: 1rem;
     }
     /* --------Skill Section---------- */
     .progress-bar span{
-        left: 67%;
+        left: 66%;
     } 
     .progress-python span{
-     left: 62%;
+     left: 61%;
      }
     .progress-html-css span{
-        left: 77%;
+        left: 76%;
     }
     .progress-php span{
-        left: 42%;
+        left: 41%;
     }
     .progress-react span{
-        left: 72%;
+        left: 71%;
     }
     .progress-django span{
-        left: 72%;
+        left: 71%;
     }
     .progress-bootstrap span{
-        left: 62%;
+        left: 61%;
     }
     .progress-wordpress span{
-        left: 72%;
+        left: 71%;
     }
     .progress-git span{
-        left: 82%;
+        left: 81%;
     }
     .progress-photoshop span{
-        left: 77%;
+        left: 76%;
     }
     /* ---------Project Section------------- */
     .card{
         width: 30rem;
+        height: 45rem;
     }
     .card__image img{
         width: 30rem;
+        height: 20rem;
     }
     /* contact-form */
    .form{

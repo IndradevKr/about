@@ -78,7 +78,7 @@ function Contact(){
                             value={formData.subject} onChange={handleChange} required/>
                             
                             <label htmlFor="message">Message<sup className="sup">*</sup> </label>
-                            <textarea name="message" id="message" cols="30" rows="10" value={formData.message} onChange={handleChange} required>Type your message here..</textarea>
+                            <textarea name="message" id="message" cols="30" rows="7" value={formData.message} onChange={handleChange} required>Type your message here..</textarea>
                             <button className="btn">Send Email</button>
                         </form>
                         {status && (
