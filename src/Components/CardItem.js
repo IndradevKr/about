@@ -3,6 +3,15 @@ import images from './images/Images';
 const cardData = [
     {
         id: 1,
+        projectTitle: 'Himalayan Java Coffee',
+        imgAlt: "Himalayan Java Coffee",
+        image: images.himalayanJavaImage,
+        primaryDesc: 'Himalayan Java Coffee is dummy professional testemonial project.',
+        secondaryDesc: 'The project is fully professional and responsive web application developed using react. Project includes different sections with different features and eye-catching styles. Visit the link to see more.',
+        projectLink: 'https://indradevkr.github.io/himalayanJavaCoffee/',
+    },
+    {
+        id: 2,
         projectTitle: 'KeepToDo',
         imgAlt: "KeepToDo image",
         image: images.keeptodoImage,
@@ -11,7 +20,7 @@ const cardData = [
         projectLink: 'https://indradevkr.github.io/keeptodo/',
     },
     {
-        id: 2,
+        id: 3,
         projectTitle: "iWeather",
         imgAlt: "iWeather image",
         image: images.iweatherImage,
@@ -20,7 +29,7 @@ const cardData = [
         projectLink: 'https://indradevkr.github.io/iWeather/',
     },
     {
-        id: 3,
+        id: 4,
         projectTitle: "IMTechSeeker",
         imgAlt: "IMTechSeeker image",
         image: images.imtechseekerImage ,
@@ -29,7 +38,7 @@ const cardData = [
         projectLink: 'https://imtechseeker.herokuapp.com/',
     },
     {
-        id: 4,
+        id: 5,
         projectTitle: "HamroBajar",
         imgAlt: "HamroBajar image",
         image: images.hamroBajarImage ,
@@ -38,7 +47,7 @@ const cardData = [
         projectLink: 'https://github.com/IndradevKr/ecommerceProject',
     },
     {
-        id: 5,
+        id: 6,
         projectTitle: "YouTube Downloader",
         imgAlt: "YouTube Downloader image",
         image: images.youtubeImage ,
@@ -47,7 +56,7 @@ const cardData = [
         projectLink: 'https://github.com/IndradevKr/youtube-downloader',
     },
     {
-        id: 6,
+        id: 7,
         projectTitle: "Responsive portfolio design 1",
         imgAlt: "portfolio 2021 image",
         image: images.portfolio2021 ,
@@ -56,7 +65,7 @@ const cardData = [
         projectLink: 'https://indradevkr.github.io/about-me/',
     },
     {
-        id: 7,
+        id: 8,
         projectTitle: "Responsive portfolio design 2",
         imgAlt: "portfolio 2020 image",
         image: images.portfolio2020,

@@ -1,6 +1,7 @@
 const images = {
     heroImage : require('./Indradev.png'),
     aboutImage: require('./about_profile.png'),
+    himalayanJavaImage: require('./himalayanJavaCoffee.png'),
     imtechseekerImage: require('./imtechseeker.png'),
     hamroBajarImage: require('./hamrobajar.png'),
     keeptodoImage: require('./keeptodo.png'),
